@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![C](https://img.shields.io/badge/-C-E300E3?style=for-the-badge&logo=C&logoColor=white)
+![C](https://img.shields.io/badge/-E300E3?style=for-the-badge&logo=C&logoColor=white)
 ![JAVA](https://img.shields.io/badge/-JAVA-critical?style=for-the-badge&logo=Java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-1365FF?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-DBDB19?style=for-the-badge&logo=Python&logoColor=white)
