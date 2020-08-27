@@ -2,7 +2,7 @@
 
 <!--
 **Croo-Z/Croo-Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![C++](https://img.shields.io/badge/-C++-2C41CB?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
