@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 ![JAVA](https://img.shields.io/badge/-JAVA-critical?style=for-the-badge&logo=Java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-1365FF?style=for-the-badge&logo=C++&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-FFF816?style=for-the-badge&logo=Python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-DBDB19 ?style=for-the-badge&logo=Python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-FE6D02?style=for-the-badge&logo=HTML5&logoColor=white)
