@@ -9,3 +9,8 @@
 ![Python](https://img.shields.io/badge/-Python-DBDB19?style=for-the-badge&logo=Python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-FE6D02?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-00DDD3?style=for-the-badge&logo=CSS3&logoColor=white)
+
+## Contact :
+
+![MAIL](https://img.shields.io/badge/-C++/C-000000?style=for-the-badge&logo=Gmail&logoColor=white)
+![DISCORD](https://img.shields.io/badge/-DISCORD-000000?style=for-the-badge&logo=Discord&logoColor=white)
