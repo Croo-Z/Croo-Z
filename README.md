@@ -14,5 +14,5 @@
 
 ## Contact :
 
-![MAIL](https://img.shields.io/badge/-MAIL-000000?style=for-the-badge&logo=Gmail&logoColor=white)
+[![MAIL](https://img.shields.io/badge/-MAIL-000000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:crez1908@gmail.com)
 ![DISCORD](https://img.shields.io/badge/-DISCORD-000000?style=for-the-badge&logo=Discord&logoColor=white)
