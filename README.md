@@ -10,7 +10,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-FE6D02?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-00DDD3?style=for-the-badge&logo=CSS3&logoColor=white)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Croo-Z)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Contact :
 
-![MAIL](https://img.shields.io/badge/-C++/C-000000?style=for-the-badge&logo=Gmail&logoColor=white)
+![MAIL](https://img.shields.io/badge/-MAIL-000000?style=for-the-badge&logo=Gmail&logoColor=white)
 ![DISCORD](https://img.shields.io/badge/-DISCORD-000000?style=for-the-badge&logo=Discord&logoColor=white)
