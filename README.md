@@ -12,6 +12,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Croo-Z)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📜 Contact :
-
-[![MAIL](https://img.shields.io/badge/-MAIL-000000?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:crez1908@gmail.com)
